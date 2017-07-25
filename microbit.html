@@ -41,7 +41,6 @@
 
         function aa(cb) {
             database.ref().on("value", function(snap) {
-                //console.log(snap.val().GPS.lat);
                 cb(snap.val().GPS.lat + '|' + snap.val().GPS.long);
             });
         }
@@ -51,8 +50,10 @@
             console.log(returnValue);
             var lat = returnValue.toString().split('|')[0];
             var long = returnValue.toString().split('|')[1];
-
-            initialize(lat, long);
+            if(lat == 0 || long == 0) 
+                alert("No GPS data at the moment");
+            else
+                initialize(lat, long);
 
         });
 
