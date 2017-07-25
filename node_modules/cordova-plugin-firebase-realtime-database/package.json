@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-firebase-realtime-database",
+      "/home/fd/programs/GPS"
+    ]
+  ],
+  "_from": "cordova-plugin-firebase-realtime-database@latest",
+  "_id": "cordova-plugin-firebase-realtime-database@0.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-firebase-realtime-database",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-firebase-realtime-database-0.0.2.tgz_1476065815444_0.632555840536952"
+  },
+  "_npmUser": {
+    "email": "harold.martin@gmail.com",
+    "name": "hmartin"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-firebase-realtime-database",
+    "raw": "cordova-plugin-firebase-realtime-database",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-firebase-realtime-database/-/cordova-plugin-firebase-realtime-database-0.0.2.tgz",
+  "_shasum": "65bfad5ea9869a8645181faed5515e3b4562d00d",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-firebase-realtime-database",
+  "_where": "/home/fd/programs/GPS",
+  "author": {
+    "name": "H Martin"
+  },
+  "bugs": {
+    "url": "https://github.com/hbmartin/cordova-plugin-firebase-realtime-database/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-firebase-realtime-database",
+    "platforms": [
+      "android",
+      "browser",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova plugin for Google Firebase Realtime Database",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "65bfad5ea9869a8645181faed5515e3b4562d00d",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-firebase-realtime-database/-/cordova-plugin-firebase-realtime-database-0.0.2.tgz"
+  },
+  "gitHead": "89f642e635ca434a607261aaecc0e76e8fb13063",
+  "homepage": "https://github.com/hbmartin/cordova-plugin-firebase-realtime-database#readme",
+  "keywords": [
+    "cordova-android",
+    "cordova-browser",
+    "cordova-ios",
+    "database",
+    "ecosystem:cordova",
+    "firebase",
+    "realtime"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "hmartin",
+      "email": "harold.martin@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-firebase-realtime-database",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbmartin/cordova-plugin-firebase-realtime-database.git"
+  },
+  "scripts": {},
+  "version": "0.0.2"
+}

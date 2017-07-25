@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "703435324322",
+    "firebase_url": "https://fd18-174800.firebaseio.com",
+    "project_id": "fd18-174800",
+    "storage_bucket": "fd18-174800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703435324322:android:144c7045ba35dede",
+        "android_client_info": {
+          "package_name": "com.enterprisemobility.GPS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703435324322-u5dgp2mlb0at3duuhhdl7eaervg5l89d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQLtu4F2b5GlxAz2xF6DbqYd26cArgeV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
